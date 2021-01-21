@@ -99,10 +99,9 @@ hr{
 
 .hero .hero-img{
     max-width: 80%;
-    max-width: 350px;
+    width: 350px;
     display: block;
     margin: auto;
-    align: center;
 }
 
 .hero .hero-heading{
